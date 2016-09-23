@@ -1,0 +1,12 @@
+language: python
+python:
+    - "2.7"
+services:
+  - redis-server
+install:
+    - make venv
+    - pip install coveralls
+
+script: sh runtests.sh
+
+after_success: killall python && coveralls

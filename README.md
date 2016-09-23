@@ -4,7 +4,7 @@
 
 [![](https://badge.imagelayers.io/talkincode/toughradius:v2.svg)](https://imagelayers.io/?images=talkincode/toughradius:v2 'Get your own badge on imagelayers.io')
 ## EBNHRADIUS 简介
-该版本针对TOUGHRADIUS的最新计费，添加了属于EBN的api接口即Vebn和对原radius认证计费系统进行bug的修复
+该版本针对TOUGHRADIUS的最新计费，原radius认证计费系统进行bug的修复和功能升级
 
 
 
